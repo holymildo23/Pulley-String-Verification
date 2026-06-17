@@ -53,7 +53,7 @@ M > 4m₁(e^(μπ) - 1)
 
 ## Files
 
-- experimental_data.csv : experimental measurements for one-coin and two-coin trials
+- experimental_data.xlsx : experimental measurements for one-coin and two-coin trials
 - pulley_simulation.ipynb : Jupyter Notebook containing the tension distribution simulation, and non-slipping condition analysis
 - experimental_angular_speed_graph.png : graph comparing average angular speed for one-coin and two-coin cases
 - tension_distribution_graph.png : graph of theoretical and experimental tension distribution
