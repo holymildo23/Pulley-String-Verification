@@ -54,8 +54,7 @@ M > 4m₁(e^(μπ) - 1)
 ## Files
 
 - experimental_data.csv : experimental measurements for one-coin and two-coin trials
-- tension_distribution.ipynb : Jupyter Notebook for the Capstan equation and tension distribution simulation
-- non_slipping_condition.ipynb : Jupyter Notebook for the parameter-space analysis of the non-slipping condition
+- pulley_simulation.ipynb : Jupyter Notebook containing the tension distribution simulation, and non-slipping condition analysis
 - experimental_angular_speed_graph.png : graph comparing average angular speed for one-coin and two-coin cases
 - tension_distribution_graph.png : graph of theoretical and experimental tension distribution
 - non_slipping_condition_graph.png : 3D graph of the critical pulley mass condition
